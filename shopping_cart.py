@@ -56,7 +56,7 @@ while True:
     elif option == "4":
         compute_total()
     elif option == "5":
-        print("Thank you for using the shopping cart. Goodbye!")
+        print("Thank you for using the shopping cart. Goodbye! and have a nice day!")
         break
     else:
         print("Invalid choice. Try again.")
